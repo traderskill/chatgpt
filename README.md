@@ -1,7 +1,5 @@
 # TraderOS for ChatGPT
 
-Built by [Brian MacDonald](https://github.com/bmacbuilds).
-
 Your free AI trading research lab. One link. No installation.
 
 TraderOS helps you investigate markets, turn trading ideas into testable strategies, challenge the evidence, and understand risk. This ChatGPT edition uses the tools available in your ChatGPT conversation. It does not automatically install the TraderOS Python engine or connect to a broker.
@@ -108,3 +106,5 @@ Trading and options involve substantial risk. Historical tests can overfit; simu
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Built by [Brian MacDonald](https://github.com/bmacbuilds).
